@@ -1,2 +1,2 @@
 # 30-days-of-javascript
-Mini project in javascript.
+Mini projects in javascript.
